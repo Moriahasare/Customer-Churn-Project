@@ -1,5 +1,4 @@
-/venv
+/movenv
 /.ipynb_checkpoints
 /.env
-/get-pip.py
 /Utils
